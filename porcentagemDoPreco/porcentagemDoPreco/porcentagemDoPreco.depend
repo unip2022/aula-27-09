@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664324272 source:d:\salatiel\porcentagemdopreco\porcentagemdopreco\main.c
+	<stdio.h>
+	<stdlib.h>
+

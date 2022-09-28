@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664323066 source:d:\salatiel\calculadoraoperadores\calculadoracomoperadores\main.c
+	<stdio.h>
+	<stdlib.h>
+
